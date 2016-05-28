@@ -1,7 +1,7 @@
-#python序列
+﻿#python序列
 ##序列列别
 python包含6中內建的序列，包括：
-1.列表>greeting = 'Hello'  :greeting[0]
+1.列表>greeting = `'Hello'  :greeting[0]`
 2.元组
 3.字符串
 4.Unicode字符串
