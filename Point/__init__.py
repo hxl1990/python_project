@@ -1,1 +1,2 @@
-import os
+_author_= 'hanxiuli'
+_all_=["getMax","getMin"]
